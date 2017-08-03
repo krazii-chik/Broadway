@@ -4,10 +4,9 @@ body {
 }    
 
 header {
-    background-image: "\resources\images\the-flatiron-building.png";
-    background-repeat:space;
+    background-image: url('../the-flatiron-building.png');
+    background-repeat: no-repeat;
     background-position: top left;
-    background-color: lightblue;
 }
     
 header h1 {
